@@ -20,6 +20,7 @@
 *include/GLFW/
 *include/glm/
 *include/stb_image.h
+*lib/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
